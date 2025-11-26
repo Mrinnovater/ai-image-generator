@@ -1,11 +1,8 @@
 streamlit
+pillow
+boto3
 pymongo
 python-dotenv
 openai
-google-api-python-client
-google-auth
-google-auth-httplib2
-google-auth-oauthlib
-pillow
-requests
-pywhatkit   # optional - only if USE_PYWHATKIT=true and running locally
+twilio
+reportlab

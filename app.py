@@ -13,7 +13,7 @@ from database_history import save_history
 # PAGE CONFIG
 # --------------------------------------
 st.set_page_config(page_title="Future Goal AI", layout="wide")
-st.title("📸 Future Goal AI - Powered by Nano Banana")
+st.title("📸 Future Goal AI - Powered by Robokalam")
 
 
 # --------------------------------------

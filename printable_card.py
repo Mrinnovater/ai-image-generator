@@ -2,8 +2,8 @@
 from PIL import Image, ImageDraw, ImageFont
 import io
 
-# TEMPLATE_PATH = "New_template.png"   # update path if needed
-TEMPLATE_PATH = "assets/template.jpeg"   # update path if needed
+TEMPLATE_PATH = "Updated_template.png"   # update path if needed
+# TEMPLATE_PATH = "assets/template.jpeg"   # update path if needed
 
 
 
